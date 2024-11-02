@@ -1,0 +1,4 @@
+hey chief, 
+Today I am learning some basic syntax of NumPy and Pandas which is given by code and learned successfully. If anything missing feel free inform me I will correction instantly.
+That is all today for understanding these fundamental libraries. NumPy provides support for large, multi-dimensional arrays and matrices, along with a collection of mathematical functions to operate on these arrays efficiently. On the other side Pandas  provides data structures like Series and DataFrames that are well-suited for data analysis tasks, such as handling and processing structured data.
+Thank you chief for the day 2 instruction.
