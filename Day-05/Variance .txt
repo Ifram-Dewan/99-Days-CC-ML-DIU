@@ -1,0 +1,10 @@
+Hey Chief,
+
+Today's learning is too short. Before I apologize for today. Because of mid-exam but I tried my best to learn properly. 
+I have a lot of issues in my daily life such as cover tuition etc. I do not know how much able to complete this mission but try my best In sha Allah.
+Now, come to the point...
+I was implement variance in numpy ,pandas by python. The difference between numpy and pandas when showing the output of different values in the same argument was 
+confusing me but while I was studying about this topic then find me the solution & solved it. pandas is counted n-1 which gives an unbiased estimate of the population variance. That is all today.
+
+Thank you Chief
+See you the next day In sha Allah!
