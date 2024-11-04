@@ -1,0 +1,7 @@
+Hey chief,
+
+Today I was learning about distribution, mean, and median which is theoretically 
+learned & try to implement it in code. simple code included how to work in python 
+libraries such as numpy & pandas. That is all today.
+
+Thank you chief for your guidance. see you the next day!
